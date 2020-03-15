@@ -2,3 +2,7 @@
 
 <a href="https://holden-herrell.github.io/IST718_GROUP_PROJECT_VIZ/MLBGameMap.html">MLB Game Map</a>
 
+<a href="https://holden-herrell.github.io/IST718_GROUP_PROJECT_VIZ/NBAGameMap.html">NBA Game Map</a>
+
+<a href="https://holden-herrell.github.io/IST718_GROUP_PROJECT_VIZ/NFLGameMap.html">NFL Game Map</a>
+
